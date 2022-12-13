@@ -1,0 +1,32 @@
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.header-text {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.first-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+}
