@@ -1,4 +1,4 @@
-h1 {
+.header-main {
     font-size: 24px;
     color: #F9FAF8;
 }
@@ -16,6 +16,9 @@ a {
 
 .header {
     background-color: #1F2937;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .header-text {
@@ -54,6 +57,27 @@ h2 {
 }
 
 .main-header {
+    padding: 5px;
+    margin-bottom: 72px;
+    margin-left: 180px;
+    margin-right: 180px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-container {
+    margin-left: 180px;
+    margin-right: 180px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding-bottom: 200px;
+}
+
+.awesome-text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 400px;
 }
