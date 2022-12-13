@@ -30,3 +30,23 @@ a {
 button {
     background-color: #3882F6;
 }
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.text {
+
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.second-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
