@@ -81,3 +81,21 @@ h2 {
     flex-wrap: wrap;
     width: 400px;
 }
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info {
+    max-width: 160px;
+}
+
+.logo-section {
+    margin-bottom: 100px;
+}
