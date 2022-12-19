@@ -167,3 +167,13 @@ h2 {
     border-radius: 8px;
     padding: 0px;
 }
+
+.copyright {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 40px 100px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
